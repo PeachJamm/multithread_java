@@ -1,0 +1,20 @@
+Node: 112 568 Path:112 568  MinDistance: 23
+Node: 245 7 Path:245 194 7  MinDistance: 25
+Node: 99 1488 Path:99 1488  MinDistance: 16
+Node: 468 23 Path:468 799 23  MinDistance: 21
+Node: 1258 752 Path:1258 1849 752  MinDistance: 21
+Node: 665 552 Path:665 218 552  MinDistance: 21
+Node: 754 454 Path:754 694 454  MinDistance: 21
+Node: 424 1254 Path:424 1748 1254  MinDistance: 20
+Node: 5 545 Path:5 963 545  MinDistance: 26
+Node: 4 3 Path:4 3  MinDistance: 10
+Node: 452 12 Path:452 1026 12  MinDistance: 24
+Node: 545 1852 Path:545 810 1852  MinDistance: 23
+Node: 1555 20 Path:1555 1424 20  MinDistance: 22
+Node: 548 123 Path:548 1248 123  MinDistance: 20
+Node: 845 100 Path:845 1907 100  MinDistance: 20
+Node: 1446 2 Path:1446 71 2  MinDistance: 25
+Node: 778 778 Path:778  MinDistance: 0
+Node: 482 488 Path:482 1410 488  MinDistance: 21
+Node: 482 488 Path:482 1410 488  MinDistance: 21
+Node: 488 482 Path:488 1271 482  MinDistance: 24

@@ -1,0 +1,49 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "DynamicThreadPoolTest",
+            "request": "launch",
+            "mainClass": "DynamicThreadPool.DynamicThreadPoolTest",
+            "projectName": "multithread_fbde80bb"
+        },
+        {
+            "type": "java",
+            "name": "FilePermissionTest",
+            "request": "launch",
+            "mainClass": "FilePermissionTest",
+            "projectName": "multithread_fbde80bb"
+        },
+        {
+            "type": "java",
+            "name": "ProduceConsumeWithThreadPool",
+            "request": "launch",
+            "mainClass": "FixedTreadPool.ProduceConsumeWithThreadPool",
+            "projectName": "multithread_fbde80bb"
+        },
+        {
+            "type": "java",
+            "name": "generate_map",
+            "request": "launch",
+            "mainClass": "PrepareData.generate_map",
+            "projectName": "multithread_fbde80bb"
+        },
+        {
+            "type": "java",
+            "name": "PC",
+            "request": "launch",
+            "mainClass": "SimpleLock.PC",
+            "projectName": "multithread_fbde80bb"
+        }
+    ]
+}
